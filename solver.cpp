@@ -1,7 +1,7 @@
 
 #include "general.h"
 #include "davids.h"
-#include "timothys.h" 1
+#include "timothys.h"
 
 int main()
 {

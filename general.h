@@ -5,7 +5,7 @@ using namespace std;
 
 // setup general/shared variables
 char **numbers;
-int count = 0;
+int count;
 
 void readInfile();
 
